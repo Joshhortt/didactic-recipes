@@ -7,7 +7,7 @@ By _**Josh Hortt**_
 
 ## Description
 
-_The purpose of this Webpage is about adding interesting Recipes,<br/>._
+_The purpose of this Webpage is about adding interesting Recipes_,<br/>
 _with some story behind, that are easy to prepare, and are super tasty_.
 
 ## Setup/Installation Requirements
